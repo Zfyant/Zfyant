@@ -1,14 +1,29 @@
 <div align="center">
 
-**Analytical Problem Solver | Process Optimizer | AI-Augmented Developer**
+![Header Line](https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=60&section=header)
+
+# ⚡ Z F Y A N T ⚡
+
+**Analytical Problem Solver 🔸 Process Optimizer 🔸 AI-Augmented Developer**
 
 </div>
 
-## 🎯 About Me
+## 🎯 About Me (`sys_info`)
 
-I'm a detail-oriented analyst with a passion for building systems that make life easier by combining traditional analytical skills with modern AI-augmented workflows to deliver powerful, practical solutions.
+````markdown
+# user@Zfyant:~$ ./profile_init.sh
 
-**What drives me:** Finding inefficiencies and building tools to eliminate them.
+> ESTABLISHING CONNECTION...
+> ACCESS GRANTED.
+> LOADING USER PROFILE [Zfyant]...
+````
+
+```yaml
+Role: Analytical Problem Solver | AI-Augmented Dev
+Current_Status: Optimizing workflows & integrating AI
+Location: 127.0.0.1
+Mission: Identify inefficiencies -> Execute solutions
+```
 
 
 <div align="center">
@@ -44,8 +59,7 @@ I'm a detail-oriented analyst with a passion for building systems that make life
 ## 🚀 Featured Projects
 
 ### 🏥 [Chart Forge](https://github.com/Zfyant/chart-forge-preview) 
-> **Data Integrity & Diagnostic System** | *In Production (WIP)*  [Live test](https://chart-forge.com)
-
+####  **Data Integrity & Diagnostic System** 🔹 *In Production (WIP)* &nbsp; **[Live test](https://chart-forge.com)** ⚡
 A secure, full-stack web application for congregating sensitive medical data with enterprise-level security protocols.
 
 <div align="center">
@@ -53,21 +67,20 @@ A secure, full-stack web application for congregating sensitive medical data wit
 ![ChartForge IMG](.assets/ChartForge.png)
 
 </div>
-
-**🔧 Tech Stack:** Python, Flask, PostgreSQL, HTML/CSS/JS  
-**🎯 Key Features:**
-- Role-based access controls with detailed audit logging
-- Secure data lifecycle management from ground-up database design
-- HIPAA-compliant data handling and storage protocols
-- Dynamic data visualization and reporting dashboard
-
-**📊 Impact:** Streamlined medical data analysis workflow, reducing processing time by 60%
+ 
+> **🎯 Key Features:**
+> - Role-based access controls with detailed audit logging
+> - Secure data lifecycle management from ground-up database design
+> - HIPAA-compliant data handling and storage protocols
+> - Dynamic data visualization and reporting dashboard
+> 
+> **🔧 Tech Stack:** Python, Flask, PostgreSQL, HTML/CSS/JS  
+> **📊 Impact:** Streamlined medical data analysis workflow, reducing processing time by 60%
 
 ---
 
 ### 📋 [Projectifier](https://github.com/Zfyant/Projectifier)
-> **Business Process & Metrics Tracking System** | *In Development*
-
+####  **Business Process & Metrics Tracking System** 🔹 *In Development*
 A comprehensive project management system with advanced analytics and real-time progress tracking.
 
 <div align="center">
@@ -76,19 +89,19 @@ A comprehensive project management system with advanced analytics and real-time 
 
 </div>
 
-**🔧 Tech Stack:** Python, Flask, SQLite, JavaScript  
-**🎯 Key Features:**
-- Dynamic metrics tracking with completion rate analysis
-- Automated timeline management and resource allocation
-- Extensive technical documentation and process logging
-- Interactive data visualization dashboard
-
-**📊 Impact:** Improved project delivery accuracy and team productivity metrics
+> **🎯 Key Features:**
+> - Dynamic metrics tracking with completion rate analysis
+> - Automated timeline management and resource allocation
+> - Extensive technical documentation and process logging
+> - Interactive data visualization dashboard
+> 
+> **🔧 Tech Stack:** Python, Flask, SQLite, JavaScript  
+> **📊 Impact:** Improved project delivery accuracy and team productivity metrics
 
 ---
 
-### 📋 [Career Finder](https://zfyant.github.io/career-finder/)
-> **Career Recommendation System** | *In Development*
+### 📋 [Career Finder](https://github.com/Zfyant/career-finder)
+####  **Career Recommendation System** 🔹 *[ACTIVE  - TRY NOW!](https://zfyant.github.io/career-finder/)* ⚡
 
 A privacy-first, AI-powered web application that helps users discover their ideal career path by generating a comprehensive, personalized career profile.
 <div align="center">
@@ -97,19 +110,19 @@ A privacy-first, AI-powered web application that helps users discover their idea
 
 </div>
 
-**🔧 Tech Stack:** HTML, CSS, JavaScript (Vanilla)  
-**🎯 Key Features:**
-- **100% Browser-Based:** All data processing happens locally; no server-side data storage ensures complete user privacy.
-- **AI-Powered Insights:** Generates a detailed career profile ready for use with LLMs like ChatGPT, Claude, and Gemini for personalized job recommendations.
-- **Intuitive UI:** A step-by-step, progressively loaded form that makes the process fast and engaging.
-- **Modular Codebase:** Built with a clean, modular JavaScript architecture for easy maintenance and future scalability.
-
-**📊 Impact:** Empowers users to move beyond guesswork and gain deep, actionable insights into their professional strengths, passions, and ideal work environments.
+> **🎯 Key Features:**
+> - **100% Browser-Based:** All data processing happens locally; no server-side data storage ensures complete user privacy.
+> - **AI-Powered Insights:** Generates a detailed career profile ready for use with LLMs like ChatGPT, Claude, and Gemini for personalized job recommendations.
+> - **Intuitive UI:** A step-by-step, progressively loaded form that makes the process fast and engaging.
+> - **Modular Codebase:** Built with a clean, modular JavaScript architecture for easy maintenance and future scalability.
+> 
+> **🔧 Tech Stack:** HTML, CSS, JavaScript (Vanilla)  
+> **📊 Impact:** Empowers users to move beyond guesswork and gain deep, actionable insights into their professional strengths, passions, and ideal work environments.
 
 ---
 
 ### 🎮 [Gamer Finder](https://github.com/Zfyant/gamer-finder)
-> **Game Recommendation & Social Platform** | *In Development*
+####  **Game Recommendation & Social Platform** 🔹 *In Development*
 
 A Flask-based web application designed to help users organize, track, and discover video games while connecting with other players.
 
@@ -119,13 +132,13 @@ A Flask-based web application designed to help users organize, track, and discov
 
 </div>
 
-**🔧 Tech Stack:** Python, Flask, SQLAlchemy, SQLite, JavaScript  
-**🎯 Key Features:**
-- **Robust Game Sync:** A powerful CLI command (`sync-games`) with a handler-based strategy pattern to synchronize game data from the Steam API, featuring exponential backoff for rate limiting and resumable syncs.
-- **Social Connections:** Users can search for friends, send/manage connection requests, and view their friends list.
-- **Dynamic Dashboard:** An interactive "Game Finder" dashboard to discover games and manage personal lists (Favorited, Liked, Disliked).
-- **Modular & Secure:** Built with Flask Blueprints, modular front-end files, and CSRF protection for all user actions.
-
+> **🎯 Key Features:**
+> - **Robust Game Sync:** A powerful CLI command (`sync-games`) with a handler-based strategy pattern to synchronize game data from the Steam API, featuring exponential backoff for rate limiting and resumable syncs.
+> - **Social Connections:** Users can search for friends, send/manage connection requests, and view their friends list.
+> - **Dynamic Dashboard:** An interactive "Game Finder" dashboard to discover games and manage personal lists (Favorited, Liked, Disliked).
+> - **Modular & Secure:** Built with Flask Blueprints, modular front-end files, and CSRF protection for all user actions.
+>
+> **🔧 Tech Stack:** Python, Flask, SQLAlchemy, SQLite, JavaScript  
 **📊 Impact:** Provides a centralized platform for game discovery and social interaction, with a highly resilient data synchronization backend to ensure data integrity.
 
 ---
@@ -135,23 +148,23 @@ A Flask-based web application designed to help users organize, track, and discov
 <details open>
 <summary><strong>🔍 Development Utilities</strong></summary>
 
-| Script | Purpose | Language |
-|--------|---------|----------|
-| **[LineCounter](https://github.com/Zfyant/Line_Counter)** | Recursively counts code lines across project directories | Python |
-| **[Directory Summarizer](https://github.com/Zfyant/Summarizer)** | Analyzes and summarizes project structure with file diversity metrics | Python |
-| **[1-Click-Backup](https://github.com/Zfyant/1-click-backup)** | Intelligent directory backup system with size optimization and selective file exclusion | Batch/PowerShell |
+> | Script | Purpose | Language |
+> |--------|---------|----------|
+> | **[LineCounter](https://github.com/Zfyant/Line_Counter)** | Recursively counts code lines across project directories | Python |
+> | **[Directory Summarizer](https://github.com/Zfyant/Summarizer)** | Analyzes and summarizes project structure with file diversity metrics | Python |
+> | **[1-Click-Backup](https://github.com/Zfyant/1-click-backup)** | Intelligent directory backup system with size optimization and selective file exclusion | Batch/PowerShell |
 
 
 </details>
 
-<details>
+<details open>
 <summary><strong>🎯 Productivity Tools</strong></summary>
 
-| Script | Purpose |
-|--------|---------|
-| **Multi-Pomo Timer** | Browser-based Pomodoro system with 4 concurrent timers for balanced productivity |
-| **System Resource Monitor** | Real-time system metrics with CSV export and web visualization |
-| **Custom Windows Enhancements** | Registry modifications and OS optimizations for improved workflow | 
+> | Script | Purpose |
+> |--------|---------|
+> | **Multi-Pomo Timer** | Browser-based Pomodoro system with 4 concurrent timers for balanced productivity |
+> | **System Resource Monitor** | Real-time system metrics with CSV export and web visualization |
+> | **Custom Windows Enhancements** | Registry modifications and OS optimizations for improved workflow | 
 
 </details>
 
@@ -159,14 +172,14 @@ A Flask-based web application designed to help users organize, track, and discov
 
 ## 💼 Professional Experience
 
-**Customer Service | Insurance**
-
-Leading high-performance customer support in a complex, multi-system environment:
-
-- **🎯 Performance Excellence:** Achieved top-tier after-call wrap-up metrics on team
-- **🔧 System Optimization:** Identified and resolved phone system lag issues, improving customer payment success rates
-- **📊 Process Innovation:** Developed streamlined metrics reporting system now used organization-wide
-- **⚡ Problem Solving:** Navigate complex insurance systems while managing high-stress customer interactions
+> **Technical Solutions Specialist | Insurance**
+> 
+> Leading high-performance customer support in a complex, multi-system environment:
+> 
+> - **🎯 Performance Excellence:** Achieved top-tier after-call wrap-up metrics on team
+> - **🔧 System Optimization:** Identified and resolved phone system lag issues, improving customer payment success rates
+> - **📊 Process Innovation:** Developed streamlined metrics reporting system now used organization-wide
+> - **⚡ Problem Solving:** Navigate complex insurance systems while managing high-stress customer interactions
 
 ---
 
@@ -220,3 +233,5 @@ I'm always interested in discussing innovative solutions, collaborative projects
 <div align="center">
 <sub>⭐ Star repositories you find interesting | 🍴 Fork projects you'd like to contribute to | 📬 Reach out for collaboration opportunities</sub>
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=60&section=footer)
