@@ -38,7 +38,7 @@ Mission: Identify inefficiencies -> Execute solutions
 <img src="https://img.shields.io/badge/PHP-6e559e?style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/MD-4c9943?style=for-the-badge&logo=mdbook&logoColor=white">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zfyant&layout=compact&theme=radical)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zfyant&layout=compact&theme=radical) -->
 
 ### Databases & Tools
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
@@ -59,7 +59,7 @@ Mission: Identify inefficiencies -> Execute solutions
 ## 🚀 Featured Projects
 
 ### 🏥 [Chart Forge](https://github.com/Zfyant/chart-forge-preview) 
-####  **Data Integrity & Diagnostic System** 🔹 *In Production (WIP)* &nbsp; **[Live test](https://chart-forge.com)** ⚡
+####  **Data Integrity & Diagnostic System** 🔹 *In Development* <!-- Production (WIP)* &nbsp; **[Live test](https://chart-forge.com)** ⚡ -->
 A secure, full-stack web application for congregating sensitive medical data with enterprise-level security protocols.
 
 <div align="center">
