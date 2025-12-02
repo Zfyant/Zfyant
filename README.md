@@ -221,7 +221,7 @@ I'm always interested in discussing innovative solutions, collaborative projects
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zfyant&show_icons=true&theme=radical&count_private=true)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zfyant&show_icons=true&theme=radical&count_private=true) BROKEN -->
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)<br>
 *(Link Coming Soon)*
