@@ -6,7 +6,7 @@
 
 **Analytical Problem Solver 🔸 Process Optimizer 🔸 AI-Augmented Developer**
 
-<video width="100%" controls autoplay loop muted playsinline src="https://github.com/Zfyant/Zfyant/raw/main/Projects_Banner_Video.mp4"></video>
+<img src="public/Banner-short.webp" alt="Projects Banner" width="100%">
 
 </div>
 
@@ -66,7 +66,7 @@ A secure, full-stack web application for congregating sensitive medical data wit
 
 <div align="center">
 
-![ChartForge IMG](.assets/ChartForge.png)
+![ChartForge IMG](public/ChartForge.png)
 
 </div>
  
@@ -87,7 +87,7 @@ A comprehensive project management system with advanced analytics and real-time 
 
 <div align="center">
 
-![Projectifier IMG](.assets/Projectifier.png)
+![Projectifier IMG](public/Projectifier.png)
 
 </div>
 
@@ -108,7 +108,7 @@ A comprehensive project management system with advanced analytics and real-time 
 A privacy-first, AI-powered web application that helps users discover their ideal career path by generating a comprehensive, personalized career profile.
 <div align="center">
 
-![CareerFinder IMG](.assets/CareerFinder.png)
+![CareerFinder IMG](public/CareerFinder.png)
 
 </div>
 
@@ -130,7 +130,7 @@ A Flask-based web application designed to help users organize, track, and discov
 
 <div align="center">
 
-![GamerFinder IMG](.assets/GamerFinder.png)
+![GamerFinder IMG](public/GamerFinder.png)
 
 </div>
 
