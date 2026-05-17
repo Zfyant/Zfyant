@@ -1,12 +1,10 @@
 <div align="center">
 
-![Header Line](https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=60&section=header)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=120&section=header" alt="Header Line" style="display: block; margin: 0 auto; padding: 0; border: 0;" />
 
-# ⚡ Z F Y A N T ⚡
-
-**Analytical Problem Solver 🔸 Process Optimizer 🔸 AI-Augmented Developer**
-
-<img src="public/Banner-short.webp" alt="Projects Banner" width="100%">
+<h1 align="center" style="margin: 0;">⚡ Z F Y A N T ⚡</h1>
+<p align="center" style="margin: 10px 0 35px 0; padding: 0; font-weight: bold;">Analytical Problem Solver 🔸 Process Optimizer 🔸 AI-Augmented Developer</p>
+<img src="public/Banner-short.webp" alt="Projects Banner" width="100%" style="display: block; margin: 0 auto;">
 
 </div>
 
