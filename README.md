@@ -6,9 +6,15 @@
 
 **Analytical Problem Solver 🔸 Process Optimizer 🔸 AI-Augmented Developer**
 
-<video width="100%" controls autoplay loop muted playsinline>
-  <source src="Projects_Banner_Video.webm" type="video/webm">
-</video>
+<video
+  width="100%"
+  controls
+  autoplay
+  loop
+  muted
+  playsinline
+  src="https://github.com/Zfyant/Zfyant/raw/main/Projects_Banner_Video.mp4"
+></video>
 
 </div>
 
